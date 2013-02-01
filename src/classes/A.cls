@@ -22,4 +22,7 @@ public void addActivity(){
 public void addLocation(){
 	
 }
+public void addProfile(){
+	
+}
 }

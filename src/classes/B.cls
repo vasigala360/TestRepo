@@ -12,6 +12,7 @@ a.addOpportunity();
 a.addCase();
 a.addActivity();
 a.addLocation();
+a.addProfile();
 }
 
 

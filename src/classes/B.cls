@@ -10,6 +10,7 @@ a.addAccount();
 a.addContact();
 a.addOpportunity();
 a.addCase();
+a.addActivity();
 }
 
 }

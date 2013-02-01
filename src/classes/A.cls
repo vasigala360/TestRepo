@@ -16,4 +16,7 @@ public void addOpportunity(){
 public void addCase(){
 	
 }
+public void addActivity(){
+	
+}
 }

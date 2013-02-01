@@ -11,6 +11,8 @@ a.addContact();
 a.addOpportunity();
 a.addCase();
 a.addActivity();
+a.addLocation();
 }
+
 
 }

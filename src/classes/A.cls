@@ -19,4 +19,7 @@ public void addCase(){
 public void addActivity(){
 	
 }
+public void addLocation(){
+	
+}
 }

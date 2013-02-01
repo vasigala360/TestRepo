@@ -10,11 +10,11 @@ a.addAccount();
 a.addContact();
 a.addOpportunity();
 a.addCase();
-a.addActivity();
-a.addLocation();
-a.addProfile();
-a.addTask();
-a.addEvent();
+//a.addActivity();
+//a.addLocation();
+//a.addProfile();
+//a.addTask();
+//a.addEvent();
 }
 
 

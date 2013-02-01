@@ -10,7 +10,7 @@ public void addAccount(){
 public void addContact(){
 	
 }
-public void addOpportunity(){
+public void addOpportunity(){ 
 	
 }
 public void addCase(){
@@ -23,6 +23,12 @@ public void addLocation(){
 	
 }
 public void addProfile(){
+	
+}
+public void addTask(){
+	
+}
+public void addEvent(){
 	
 }
 }

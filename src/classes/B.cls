@@ -13,6 +13,8 @@ a.addCase();
 a.addActivity();
 a.addLocation();
 a.addProfile();
+a.addTask();
+a.addEvent();
 }
 
 
